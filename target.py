@@ -1,7 +1,4 @@
 import streamlit as st
-import plotly.express as px
-import matplotlib.pyplot as plt
-import seaborn as sns
 import pandas as pd
 import numpy as np
 from PIL import Image
