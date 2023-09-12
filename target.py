@@ -27,7 +27,7 @@ st.write('-----------------------------------')
 
 
 
-sheet_bx = st.selectbox('Select',['Select The Pricing Type','Alowable','Not Allowable'],index=0)
+sheet_bx = st.selectbox('Select',['Select The Pricing Type','Temporary Alowable','Final Release'],index=0)
 
 if sheet_bx != 'Select The Pricing Type':
 
